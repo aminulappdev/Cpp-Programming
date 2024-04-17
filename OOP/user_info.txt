@@ -1,0 +1,17 @@
+Your name is : Md Aminul Islam
+Your ID is : 12111028
+Your address is : Vatikhana, Barishal
+Current month unit : 30
+
+------------------------------------------
+Md Aminul Islam
+You have used electricity this month : 0
+Your Bill is : 210
+------------------------------------------
+         Thanks for Payment               
+------------------------------------------
+Your name is : Aminul islam
+Your ID is : 12111028
+Your address is : Barishal
+Current month unit : 30
+
